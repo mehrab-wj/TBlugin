@@ -1,7 +1,0 @@
-[03-Feb-2018 16:49:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home2/marketem/public_html/telegram/tblugin/plugins/plugins_info.php on line 27
-[03-Feb-2018 16:51:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home2/marketem/public_html/telegram/tblugin/plugins/plugins_info.php on line 27
-[03-Feb-2018 16:52:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home2/marketem/public_html/telegram/tblugin/plugins/plugins_info.php on line 27
-[03-Feb-2018 16:52:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home2/marketem/public_html/telegram/tblugin/plugins/plugins_info.php on line 27
-[03-Feb-2018 16:52:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home2/marketem/public_html/telegram/tblugin/plugins/plugins_info.php on line 27
-[03-Feb-2018 16:52:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home2/marketem/public_html/telegram/tblugin/plugins/plugins_info.php on line 27
-[03-Feb-2018 16:53:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home2/marketem/public_html/telegram/tblugin/plugins/plugins_info.php on line 27
